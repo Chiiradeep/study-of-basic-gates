@@ -1,6 +1,6 @@
- Developed by: CHIIRADEEP R
+### Developed by: CHIIRADEEP R
  
- RegisterNumber: 212224240028
+### RegisterNumber: 212224240028
 
 ### study-of-basic-gates
 
